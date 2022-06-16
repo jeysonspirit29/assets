@@ -1,3 +1,7 @@
 {
-    "servicios": "Servicios"
+    "inicio":"Inicio",
+    "servicios": "Servicios",
+    "certificaciones":"Certificaciones",
+    "nosotros":"Nosotros",
+    "contactanos":"Contáctanos"
 }
